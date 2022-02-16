@@ -1,0 +1,27 @@
+{
+  "//1": "KaptanTR - Invite Bot",
+  "//2": "KaptanTR - Invite Bot",
+  "//3": "KaptanTR - Invite Bot",
+  "name": "thtinvitebot",
+  "version": "0.0.1",
+  "description": "KaptanTR - Invite Bot",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.4.0",
+    "fs": "^0.0.2",
+    "quick.db": "^7.1.3"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://github.com/omergoc/DiscordInviteBot"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node"
+  ]
+}
